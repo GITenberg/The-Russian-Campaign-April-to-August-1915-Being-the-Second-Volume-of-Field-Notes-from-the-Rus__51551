@@ -1,0 +1,32 @@
+_repo: The-Russian-Campaign-April-to-August-1915-Being-the-Second-Volume-of-Field-Notes-from-the-Rus__51551
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Mewes, George H.
+    gutenberg_agent_id: '49069'
+    url: http://www.gutenberg.org/2009/agents/49069
+creator:
+  author:
+    agent_name: Washburn, Stanley
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '46466'
+    url: http://www.gutenberg.org/2009/agents/46466
+description: ''
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51551'
+  lccn: '16000761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Eastern Front'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- GITenberg
+title: "The Russian Campaign, April to August, 1915\r\nBeing the Second Volume of\
+  \ \"Field Notes from the Russian Front\""
+url: http://www.gutenberg.org/ebooks/51551

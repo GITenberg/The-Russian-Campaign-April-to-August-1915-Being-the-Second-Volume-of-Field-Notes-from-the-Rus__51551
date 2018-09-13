@@ -5,6 +5,9 @@ contributor:
     agent_name: Mewes, George H.
     gutenberg_agent_id: '49069'
     url: http://www.gutenberg.org/2009/agents/49069
+covers:
+- cover_type: archival
+  image_path: 51551-h/images/cover.jpg
 creator:
   author:
     agent_name: Washburn, Stanley
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46466'
     url: http://www.gutenberg.org/2009/agents/46466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51551#The-Russian-Campaign-April-to-August-1915-Being-the-Second-Volume-of-Field-Notes-from-the-Rus_
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
 identifiers:
